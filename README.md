@@ -17,6 +17,7 @@ The environment can include<br/>
 •	cladding of the multi-layer thin film (e.g. substrate and ambient materials),<br/>
 •	dispersive and dissipative materials,<br/>
 •	spectral and angular optical behavior of multi-layer thin films (See figure 2),<br/>
+•	… parallelized, efficient computation of optical characteristics,<br/>
 •	… and many more.<br/>
 
 The environment class allows to <br/>
